@@ -9,3 +9,5 @@ for i in range(10):
     for j in range(i+1):
         print(i,j)
 
+i=10
+print(i+20)
