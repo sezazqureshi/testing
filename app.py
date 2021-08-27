@@ -14,6 +14,7 @@ print(10+20)
 
 i=10
 
+
 print(i+20)
 
 z = [i for i in range(10)]
